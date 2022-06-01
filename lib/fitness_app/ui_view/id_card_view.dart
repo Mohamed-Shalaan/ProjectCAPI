@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/material.dart';
+
 
 
 Widget profileCard({
@@ -10,8 +10,8 @@ Widget profileCard({
   Color color = Colors.white,
   Color textColor = Colors.black,
   double elevation = 5,
-  String shortBio = "qweqweqwewq",
-  String username = "qweqweqweqweqwe",
+  String shortBio = "Android Developer",
+  String username = "Ahmed",
   int followers = 0,
   int following = 0,
   String font = 'arial',

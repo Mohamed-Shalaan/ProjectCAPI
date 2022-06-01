@@ -8,8 +8,8 @@ import 'package:career_guide/home_screen.dart';
 
 
 TextStyle s1 =
-TextStyle(color: Colors.blueGrey, fontSize: 20, fontFamily: 'Comfortaa');
-TextStyle s2 = TextStyle(color: Colors.red, fontSize: 20,fontFamily: 'Comfortaa');
+TextStyle(color: Colors.blueGrey, fontSize: 20, fontFamily: 'Comfort');
+TextStyle s2 = TextStyle(color: Colors.red, fontSize: 20,fontFamily: 'Comfort');
 bool _isObscure= true;
 
 
@@ -36,7 +36,7 @@ class _LogInState extends State<LogIn> {
                   Text(
                     'Lets Get Started',
                     style: TextStyle(
-                        color: Colors.blueGrey, fontFamily: 'Comfortaa', fontSize: 30),
+                        color: Colors.blueGrey, fontFamily: 'Comfort', fontSize: 30),
                   ),
                   Padding(
                     padding: const EdgeInsets.only(top: 10, left: 50, right: 50),
@@ -90,7 +90,7 @@ class _LogInState extends State<LogIn> {
                       child: Text('Log In',
                           style: TextStyle(
                               color: Colors.white,
-                              fontFamily: 'Comfortaa',
+                              fontFamily: 'Comfort',
                               fontSize: 20)),
                     ),
                   ),

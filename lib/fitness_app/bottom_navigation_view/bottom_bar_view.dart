@@ -1,6 +1,9 @@
 import 'dart:math' as math;
 
+import 'package:career_guide/RoadMap/AndroidRoadMap.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_zoom_drawer/flutter_zoom_drawer.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import '../fitness_app_theme.dart';
 import '../models/tab_icon_data.dart';
@@ -81,10 +84,14 @@ class _BottomBarViewState extends State<BottomBarView>
                             Expanded(
                               child: TabIcons(
                                   tabIconData: widget.tabIconsList[1],
-                                  removeAllSelect: () {
-                                    setRemoveAllSelection(
-                                        widget.tabIconsList[1]);
-                                    widget.changeIndex(1);
+                                  removeAllSelect: () async {
+                                    const url ='https://www.reddit.com/r/androiddev/';
+                                    if (await canLaunch(url)){
+                                      await launch(url,
+                                      );
+                                    } else{
+                                      throw 'Cant Launch';
+                                    }
                                   }),
                             ),
                             SizedBox(
@@ -98,20 +105,23 @@ class _BottomBarViewState extends State<BottomBarView>
                             Expanded(
                               child: TabIcons(
                                   tabIconData: widget.tabIconsList[2],
-                                  removeAllSelect: () {
-                                    setRemoveAllSelection(
-                                        widget.tabIconsList[2]);
-                                    widget.changeIndex(2);
+                                  removeAllSelect: () async {
+                                    const url ='https://developer.android.com/studio';
+                                    if (await canLaunch(url)){
+                                      await launch(url,
+                                      );
+                                    } else{
+                                      throw 'Cant Launch';
+                                    }
                                   }),
                             ),
                             Expanded(
                               child: TabIcons(
                                   tabIconData: widget.tabIconsList[3],
-                                  removeAllSelect: () {
-                                    setRemoveAllSelection(
-                                        widget.tabIconsList[3]);
-                                    widget.changeIndex(3);
-                                  }),
+                                  removeAllSelect: () {ZoomDrawer.of(context)!.toggle();}
+                                  // MENU***************************************
+
+                              ),
                             ),
                           ],
                         ),
@@ -169,7 +179,11 @@ class _BottomBarViewState extends State<BottomBarView>
                           highlightColor: Colors.transparent,
                           focusColor: Colors.transparent,
                           onTap: () {
-                            widget.addClick();
+                            Navigator.push(
+                              context,
+                              MaterialPageRoute(builder: (context) => AndroidRoadMap()),
+                            );
+
                           },
                         ),
                       ),
