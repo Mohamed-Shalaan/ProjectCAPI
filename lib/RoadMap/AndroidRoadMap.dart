@@ -4,7 +4,8 @@ import 'package:career_guide/RoadMap/AndroidDeveloper/RepoHosting.dart';
 import 'package:career_guide/RoadMap/AndroidDeveloper/VersionControl.dart';
 import 'package:career_guide/RoadMap/AndroidDeveloper/WritrRoubstApps.dart';
 import 'package:career_guide/RoadMap/AndroidDeveloper/language.dart';
-// import 'package:career_guide/Side_Menu/menu_widget.dart';
+import 'package:career_guide/Side_Menu/menu_widget.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:timeline_tile/timeline_tile.dart';
@@ -56,7 +57,11 @@ class AndroidRoadMap extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
+        // leading: MenuWidget(),
         backgroundColor: Color(0xFFFAFAFA),
+        iconTheme: IconThemeData(
+            color: Colors.black
+        ),
         title: Text('Android Developer', style: TextStyle(fontSize: 25, color: Colors.black, fontFamily: 'Comfort'),),
 
         centerTitle: true,

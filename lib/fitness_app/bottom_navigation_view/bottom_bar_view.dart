@@ -104,9 +104,8 @@ class _BottomBarViewState extends State<BottomBarView>
                             ),
                             Expanded(
                               child: TabIcons(
-                                  tabIconData: widget.tabIconsList[2],
-                                  removeAllSelect: () async {
-                                    const url ='https://developer.android.com/studio';
+                                  tabIconData: widget.tabIconsList[2],                                  removeAllSelect: () async {
+                                    const url ='https://twitter.com/AndroidDev';
                                     if (await canLaunch(url)){
                                       await launch(url,
                                       );
@@ -118,7 +117,9 @@ class _BottomBarViewState extends State<BottomBarView>
                             Expanded(
                               child: TabIcons(
                                   tabIconData: widget.tabIconsList[3],
-                                  removeAllSelect: () {ZoomDrawer.of(context)!.toggle();}
+                                  removeAllSelect: () {
+                                    // ZoomDrawer.of(context)!.toggle();
+                                  }
                                   // MENU***************************************
 
                               ),

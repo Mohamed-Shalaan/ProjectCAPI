@@ -119,8 +119,10 @@ Widget profileCard({
                 CircleAvatar(
                     radius: height * 0.25,
                     child: profileImg ??  Icon(
+
                       Icons.account_circle_sharp,
                       size: height * 25,
+
                     )),
               ],
             ),

@@ -4,8 +4,8 @@ import 'bottom_navigation_view/bottom_bar_view.dart';
 import 'fitness_app_theme.dart';
 import 'models/tab_icon_data.dart';
 import 'my_diary/my_diary_screen.dart';
-import 'training/training_screen.dart';
-import 'package:career_guide/navigation_home_screen.dart';
+
+
 
 
 class FitnessAppHomeScreen extends StatefulWidget {
@@ -87,16 +87,6 @@ class _FitnessAppHomeScreenState extends State<FitnessAppHomeScreen>
                   setState(() {
                     tabBody =
                         MyDiaryScreen(animationController: animationController);
-                  });
-                }
-                return;
-              });
-            } else if (index == 1 || index == 3) {
-              animationController.reverse().then<dynamic>((_) {
-                if (mounted) {
-                  setState(() {
-                    tabBody = TrainingScreen(
-                        animationController: animationController);
                   });
                 }
                 return;

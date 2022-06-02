@@ -2,8 +2,8 @@ import 'package:career_guide/fitness_app/fitness_app_home_screen.dart';
 import 'package:career_guide/screen/SignUpPage.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:career_guide/screen/Profile_Page.dart';
-import 'package:career_guide/home_screen.dart';
+
+
 
 
 

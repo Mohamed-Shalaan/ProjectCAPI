@@ -18,12 +18,12 @@ class TabIconData {
       isSelected: true,
     ),
     TabIconData(
-      imagePath: 'assets/fitness_app/tab_2.png',
+      imagePath: 'assets/fitness_app/tab_2s.png',
       selectedImagePath: 'assets/fitness_app/tab_2s.png',
       index: 1,
     ),
     TabIconData(
-      imagePath: 'assets/fitness_app/tab_3.png',
+      imagePath: 'assets/images/Twitter.png',
       selectedImagePath: 'assets/fitness_app/tab_3s.png',
       index: 2,
     ),
