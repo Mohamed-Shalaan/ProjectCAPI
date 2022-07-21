@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092015838986",
+    "project_id": "capi-project-7aead",
+    "storage_bucket": "capi-project-7aead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092015838986:android:7a0bf2059da25fc4d90cf3",
+        "android_client_info": {
+          "package_name": "com.azteam.career_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092015838986-qbsq93ut1kpi4njt1hq5trd48g4g1ctl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJPYiJb7RtQBK-q_K9XgPRWz00TT-Vaj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092015838986-qbsq93ut1kpi4njt1hq5trd48g4g1ctl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

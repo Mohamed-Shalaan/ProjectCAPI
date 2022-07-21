@@ -1,5 +1,9 @@
 
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+
+import '../fitness_app/fitness_app_home_screen.dart';
 bool _isObscure= true;
 
 class SignUp extends StatefulWidget {
@@ -8,6 +12,11 @@ class SignUp extends StatefulWidget {
 }
 
 class _SignUpState extends State<SignUp> {
+
+  final  _auth = FirebaseAuth.instance;
+  String email = '';
+  String password='';
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -53,6 +62,8 @@ class _SignUpState extends State<SignUp> {
                   ),
                   Padding(
                     padding: const EdgeInsets.only(top:15 ,left: 50, right:50 ),
+
+                    //email field
                     child: TextField(
                       keyboardType: TextInputType.emailAddress,
                       decoration: InputDecoration(
@@ -62,6 +73,9 @@ class _SignUpState extends State<SignUp> {
                           borderRadius: BorderRadius.circular(13),
                         ),
                       ),
+                      onChanged: (value){
+                        email = value;
+                      },
                     ),
                   ),
 
@@ -84,6 +98,10 @@ class _SignUpState extends State<SignUp> {
                           borderRadius: BorderRadius.circular(13),
                         ),
                       ),
+                      onChanged: (value){
+                        password = value;
+
+                      },
                     ),
                   ),
 
@@ -97,6 +115,7 @@ class _SignUpState extends State<SignUp> {
                         borderRadius: BorderRadius.circular(12)),
                   ),
                   onPressed: () {
+                    signUp();
                   },
                   child: Text('Sign Up',
                       style: TextStyle(
@@ -113,4 +132,15 @@ class _SignUpState extends State<SignUp> {
         )
     );
   }
+  Future signUp()async{
+    future: Firebase.initializeApp();
+    final newUser = await _auth.createUserWithEmailAndPassword(email: email, password: password);
+    if(newUser != null){
+      Navigator.push(
+        context,
+        MaterialPageRoute(builder: (context) => FitnessAppHomeScreen()),
+      );
+    }
+  }
+
 }
