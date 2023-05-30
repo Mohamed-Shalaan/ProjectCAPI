@@ -75,7 +75,7 @@
 *   [Contributors](#hatching_chick-contributors)
 *   [License](#warning-license)
 
-## :tada: About the Project
+## 💫 About the Project
 
 `CAPI` stands for Career Aptitude Pocket Instructor
 
