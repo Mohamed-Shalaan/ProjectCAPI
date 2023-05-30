@@ -56,7 +56,7 @@
     *   [Preview](#camera-screenshots)
     *   [Motives](#bulb-motives)
     *   [Target Market](#dart-target-market)
-    *   [Competitive Advantages](#eight-spoked-asterisk-competitive-advantages)
+    *   [Competitive Advantages](#tropy-competitive-advantages)
     *   [Tech stack and Tools](#hammer_and_wrench-tech-stack-and-tools)
   
 *   [Source Code Directory Structure](#ladder-source-code-directory-structure)
@@ -109,7 +109,7 @@
 <img src="md/Market.PNG" />
 
 ***
-### :eight_spoked_asterisk: Competitive Advantages 
+## :tropy: Competitive Advantages
 
 <h3 align="center"> CAPI offers a full package of features that sets it apart from all local and international competitors that only offer some of these features for free, or lack the hollistic approach by giving shallow recommendations without a good applicable steps or specilaized communities to support the development journey .</h3>
 <img src="md/plus.PNG" />
