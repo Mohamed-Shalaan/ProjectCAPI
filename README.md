@@ -57,16 +57,13 @@
     *   [Target Market](#dart-target-market)
     *   [Competitive Advantages](#trophy-competitive-advantages)
     *   [Lean Canvas](#triangular_flag_on_post-lean-canvas)
- 
-  
-*   [Source Code Directory Structure](#ladder-source-code-directory-structure)
-*   [Getting Started](#biking_man-getting-started)
-    *   [Prerequisites](#yellow_circle-prerequisites)
-        *   [Package Manager](#package-package-manager)
-        *   [Environment Variables](#key-environment-variables)
-    *   [Run for Development](#wrench-run-for-development)
-        *   [Run the Tests](#syringe-run-the-tests)
-    *   [Deployment | Hosting](#sparkles-deployment--hosting)
+
+*   [App Specifications & Structure](#ladder-source-code-directory-structure)
+    *   [Main Modules](#biking_man-getting-started)
+    *   [Sub Modules](#yellow_circle-prerequisites)
+    *   [System Architecture](#sparkles-deployment--hosting)
+    *   [Documentation](#sparkles-deployment--hosting)
+
 *   [Usage](#thinking-usage)
 *   [FAQ](#bulb-faq)
 *   [Future Work](#rescue_worker_helmet-future-work)
