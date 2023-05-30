@@ -49,6 +49,7 @@
     :warning: Active development. Unstable. Breaking changes. You get the point. :warning:
 </p>
 
+
 ## :scroll: Table of Contents
 
 *   [About the Project](#tada-about-the-project)
@@ -482,9 +483,9 @@ Where you can ask questions, suggest new ideas, and get support.
 <table>
   <tr>
     <td align="center">
-        <a href="https://abdeltwabmf.github.io">
-        <img src="https://avatars.githubusercontent.com/u/55063723?v=3?s=100" width="100px;" alt="Abdeltwabmf"/><br />
-            <sub><b>Abd El-Twab M. Fakhry</b></sub>
+        <a href="https://Mohamed-Shalaan.github.io">
+        <img src="https://avatars.githubusercontent.com/u/55063723?v=3?s=100" width="100px;" alt="Mohamed-Shalaan"/><br />
+            <sub><b>Mohamed Salah Shalaan</b></sub>
         </a>
     </td>
   </tr>
