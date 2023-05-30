@@ -111,7 +111,7 @@
 ***
 ## :trophy: Competitive Advantages
 
-<h3 align="center"> CAPI offers a full package of features that sets it apart from all local and international competitors that only offer some of these features for free, or lack the hollistic approach by giving shallow recommendations without a good applicable steps or specilaized communities to support the development journey .</h3>
+<h3 align="center"> CAPI offers a full package of features that sets it apart from all local and international competitors who only offers partial features for a price !.</h3>
 <img src="md/plus.PNG" />
 
 ***
