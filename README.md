@@ -483,7 +483,7 @@ Where you can ask questions, suggest new ideas, and get support.
 <table>
   <tr>
     <td align="center">
-        <a href="https://Mohamed-Shalaan.github.io">
+        <a href="https://github.com/Mohamed-Shalaan">
         <img src="https://avatars.githubusercontent.com/Mohamed-Shalaan" width="100px;" alt="Mohamed-Shalaan"/><br />
             <sub><b>Mohamed Salah Shalaan</b></sub>
         </a>
