@@ -8,10 +8,6 @@
     <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI/graphs/commit-activity">
         <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="maintenance" />
     </a>
- 
-    <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/Mohamed-Shalaan/ProjectCAPI?logo=gnu&.svg" alt="license" />
-    <a>
     <a href="https://github.com/AbdeltwabMF/devault/releases">
         <img src="https://img.shields.io/github/release/AbdeltwabMF/devault.svg" alt="release" />
     </a>
