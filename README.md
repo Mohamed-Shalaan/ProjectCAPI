@@ -56,7 +56,7 @@
     *   [Preview](#camera-screenshots)
     *   [Motives](#bulb-motives)
     *   [Target Market](#dart-target-market)
-    *   [Competitive Advantages](#eight-spoked-asterisk-competitive-advantages )
+    *   [Competitive Advantages](#eight-spoked-asterisk-competitive-advantages)
     *   [Tech stack and Tools](#hammer_and_wrench-tech-stack-and-tools)
   
 *   [Source Code Directory Structure](#ladder-source-code-directory-structure)
