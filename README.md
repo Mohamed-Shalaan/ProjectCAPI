@@ -54,8 +54,8 @@
 
 *   [About the Project](#u6307-about-the-project)
     *   [Preview](#camera-screenshots)
-    *   [What is CAPI ? ](#microphone-what-is-devault)
-    *   [Why CAPI ? ](#mag-why-devault)
+    *   [What is CAPI ? ](#what-is-CAPI-bulb)
+    *   [Why CAPI ? ](#why-CAPI-star2)
     *   [Tech stack and Tools](#hammer_and_wrench-tech-stack-and-tools)
   
 *   [Source Code Directory Structure](#ladder-source-code-directory-structure)
@@ -93,15 +93,15 @@
   </tbody>
 </table>
 
-## :microphone: What is Devault
+## What is CAPI ? Motives :bulb:
 
 <h3 align="center">CAPI is a Software Solution to 3 Main Problems That Face Most of Fresh & UnderGraduates :</h3>
 <img src="md/Problems.PNG" />
  
- Tha App Functions and Features Provide Solutions For All Those Problems : 
+ <h3 align="center"> Tha App Functions and Features Provide Solutions For All Those Problems : </h3>
  <img src="md/Solution.PNG" />
 
-### :mag: Why Devault
+### Why CAPI ? Advantages :star2:
 
 #### :-1: The Problem with Traditional Cloud Storage
 
