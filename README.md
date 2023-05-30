@@ -75,7 +75,7 @@
 *   [Contributors](#hatching_chick-contributors)
 *   [License](#warning-license)
 
-## 💫 About the Project
+## :Japanese Symbol for Beginner: About the Project
 
 `CAPI` stands for Career Aptitude Pocket Instructor
 
