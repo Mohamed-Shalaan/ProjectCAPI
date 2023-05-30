@@ -21,10 +21,13 @@
         <img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="style" />
     </a>
     <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI">
-        <img src="https://img.shields.io/github/languages/top/Mohamed-Shalaan/ProjectCAPI" alt="languages" />
+        <img src="https://img.shields.io/badge/Framework-Flutter-blue" alt="framwork" />
     </a>
-    <a href="https://github.com/AbdeltwabMF/devault/CODE-OF-CONDUCT.md">
-        <img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="code-of-conduct" />
+  <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI">
+        <img src="https://img.shields.io/badge/Code-Dart-blue" alt="language" />
+    </a>
+     <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI">
+        <img src="https://img.shields.io/badge/Data-Firebase-orange" alt="Data" />
     </a>
     <a href="https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AbdeltwabMF/devault&amp;utm_campaign=Badge_Grade">
         <img src="https://app.codacy.com/project/badge/Grade/7abde45beb1a44ef858fb68e889a214e" alt="quality" />
