@@ -54,7 +54,6 @@
 
 *   [About the Project](#tada-about-the-project)
     *   [Preview](#preview-screenshots)
-    *   [Color Reference](#art-color-reference)
     *   [Tech stack and Tools](#hammer_and_wrench-tech-stack-and-tools)
     *   [What is Devault](#microphone-what-is-devault)
     *   [Why Devault](#mag-why-devault)
@@ -82,11 +81,20 @@
 
 ### :Preview: Screenshots
 
-|                                               |                                               |
-|:---------------------------------------------:|:---------------------------------------------:|
-| ![landpage](/public/screenshots/landpage.png) | ![landpage](/public/screenshots/thevault.png) |
-
-### :art: [Color Reference](https://coolors.co/palette/264653-2a9d8f-e9c46a-f4a261-e76f51)
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="1%"><img src="md/2- OnBoarding2.jpg"/></td>
+      <td width="1%"><img src="md/5- Login.jpg"/></td>
+       <td width="1%"><img src="md/10- Careers1.jpg"/></td>
+    </tr>
+    <tr>
+      <td width="1%"><img src="md/11- Profile1.jpg"/></td>
+      <td width="1%"><img src="md/11- Profile2.jpg"/></td>
+       <td width="1%"><img src="md/13-Map1.jpg"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ## :microphone: What is Devault
 
