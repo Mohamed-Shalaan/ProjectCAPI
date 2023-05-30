@@ -56,6 +56,7 @@
     *   [Preview](#camera-screenshots)
     *   [Motives](#bulb-motives)
     *   [Target Market](#dart-target-market)
+    *   [Competitive Advantages](#eight-spoked-asterisk-competitive-advantages )
     *   [Tech stack and Tools](#hammer_and_wrench-tech-stack-and-tools)
   
 *   [Source Code Directory Structure](#ladder-source-code-directory-structure)
@@ -104,6 +105,11 @@
 
 <h3 align="center"> According Statista.com, Capmas.gov.eg, and Wner.wes.com there are over 2.5 million fresh-grads in Egypy, with another 2.3 million full-day clerics who approached a career shift in the last year, all of them can benefit form CAPI's features .</h3>
 <img src="md/Market.PNG" />
+
+#### :eight_spoked_asterisk: Competitive Advantages 
+
+<h3 align="center"> CAPI offers a full package of features that sets it apart from all local and international competitors that only offer some of these features for free, or lack the hollistic approach by giving shallow recommendations without a good applicable steps or specilaized communities to support the development journey .</h3>
+<img src="md/plus.PNG" />
 
 #### :-1: The Problem with Traditional Cloud Storage
 
