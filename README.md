@@ -484,7 +484,7 @@ Where you can ask questions, suggest new ideas, and get support.
   <tr>
     <td align="center">
         <a href="https://Mohamed-Shalaan.github.io">
-        <img src="https://avatars.githubusercontent.com/u/55063723?v=3?s=100" width="100px;" alt="Mohamed-Shalaan"/><br />
+        <img src="https://avatars.githubusercontent.com/<Mohamed-Shalaan>" width="100px;" alt="Mohamed-Shalaan"/><br />
             <sub><b>Mohamed Salah Shalaan</b></sub>
         </a>
     </td>
