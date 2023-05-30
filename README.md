@@ -53,7 +53,7 @@
 ## :scroll: Table of Contents
 
 *   [About the Project](#tada-about-the-project)
-    *   [Screenshots](#camera-screenshots)
+    *   [Preview](#preview-screenshots)
     *   [Color Reference](#art-color-reference)
     *   [Tech stack and Tools](#hammer_and_wrench-tech-stack-and-tools)
     *   [What is Devault](#microphone-what-is-devault)
@@ -78,9 +78,9 @@
 
 ## :tada: About the Project
 
-`Devault` stands for DEcentralized VAULT
+`CAPI` stands for Career Aptitude Pocket Instructor
 
-### :camera: Screenshots
+### :Preview: Screenshots
 
 |                                               |                                               |
 |:---------------------------------------------:|:---------------------------------------------:|
