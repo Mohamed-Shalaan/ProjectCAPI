@@ -9,10 +9,10 @@
         <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="maintenance" />
     </a>
     <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI/releases">
-        <img src="https://img.shields.io/badge/release-0.7.1-green" alt="release" />
+        <img src="https://img.shields.io/badge/release-0.7.1-blue" alt="release" />
     </a>
-    <a href="https://github.com/AbdeltwabMF/devault/graphs/contributors">
-        <img src="https://img.shields.io/github/contributors/AbdeltwabMF/devault.svg" alt="contributors" />
+    <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI/graphs/contributors">
+        <img src="https://img.shields.io/badge/contributors-3-orange" alt="contributors" />
     </a>
     <a href="http://makeapullrequest.com">
         <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="pull-request" />
@@ -20,9 +20,7 @@
     <a href="https://standardjs.com">
         <img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="style" />
     </a>
-    <a href="https://hub.docker.com/r/abdeltwabmf/devault">
-        <img src="https://img.shields.io/docker/image-size/abdeltwabmf/devault/latest" alt="docker" />
-    </a>
+
     <a href="https://github.com/AbdeltwabMF/devault">
         <img src="https://img.shields.io/github/languages/top/AbdeltwabMF/devault" alt="languages" />
     </a>
