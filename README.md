@@ -59,6 +59,7 @@
     *   [Competitive Advantages](#trophy-competitive-advantages)
     *   [Lean Canvas](#triangular_flag_on_post-lean-canvas)
   
+  
 *   [Source Code Directory Structure](#ladder-source-code-directory-structure)
 *   [Getting Started](#biking_man-getting-started)
     *   [Prerequisites](#yellow_circle-prerequisites)
