@@ -121,199 +121,20 @@
 ***
 # App Specifications & Structure
 
-**When you upload a file:**
+***
+## System Architecture
 
-*   The file gets encrypted using AES-256-CBC encryption.
-*   The encrypted file is split into pieces.
-*   The chunks are distributed across the network nodes.
-*   The root hash will be stored in your wallet on the blockchain.
+***
+## Main Modules
 
-**When you download a file:**
+***
+## Sub Modules
 
-*   The root hash will be retrieved from your wallet on the blockchain.
-*   The root hash will be used to retrieve the file chunks.
-*   The retrieved chucks will be combined and decrypted to represent the original file.
+***
+## Documentation
 
-### :hammer\_and\_wrench: Tech Stack and Tools
 
-The tools used in this project.
-
-|                                                                      | Tool                                       | Description                                                                    |
-|:--------------------------------------------------------------------:|:------------------------------------------:|:------------------------------------------------------------------------------:|
-| <img src="/public/tools/neovim.png" width="32px" height="32px" />    | [Neovim](https://neovim.io/)               | IDE                                                                      |
-| <img src="/public/tools/nextdotjs.png" width="32px" height="32px" /> | [Next.js](https://nextjs.org/)             | Full stack framework                                                        |
-| <img src="/public/tools/hardhat.png" width="32px" height="32px" />   | [Hardhat](https://hardhat.io)              | Framework for developing, testing, linting and deploying smart contracts  |
-| <img src="/public/tools/solidity.png" width="32px" height="32px" />  | [Solidity](https://docs.soliditylang.org/) | The smart contract language                                                   |
-| <img src="/public/tools/metamask.png" width="32px" height="32px" />  | [Metamask](https://metamask.io/)           | Web3 provider                                                             |
-| <img src="/public/tools/ethereum.png" width="32px" height="32px" />  | [Ethers.js](https://docs.ethers.io/)       | Library for interacting with the Ethereum blockchain                      |
-| <img src="/public/tools/ethereum.png" width="32px" height="32px" />  | [Ropsten](https://ropsten.etherscan.io/)   | Testnet for deploying smart contracts                                     |
-| <img src="/public/tools/infura.png" width="32px" height="32px" />    | [Infura](https://infura.io/)               | Blockchain node as a service to deploy the smart contracts through it |
-| <img src="/public/tools/ipfs.png" width="32px" height="32px" />      | [IPFS](https://ipfs.io/)                   | Storing, retrieving and sharing the encrypted files                                    |
-| <img src="/public/tools/jest.png" width="32px" height="32px" />      | [Jest](https://jestjs.io/)                 | Unit testing and code coverage                                                              |
-| <img src="/public/tools/ethereum.png" width="32px" height="32px" />  | [Etherscan](https://etherscan.io/)         | Verifying transactions and blocks                                          |
-| <img src="/public/tools/vercel.png" width="32px" height="32px" />    | [Vercel](https://vercel.com/)              | Production deployment                                           |
-| <img src="/public/tools/docker.png" width="32px" height="32px" />    | [Docker](https://www.docker.com/)          | Deploying and shipping the app for production                              |
-
-## :ladder: Source Code Directory Structure
-
-A quick look at the top-level files and directories:
-
-```sh
-.
-├── __tests__
-├── artifacts
-├── components
-├── contracts
-├── docker-compose.yml
-├── Dockerfile
-├── docs
-├── hardhat.config.js
-├── jest.config.js
-├── next.config.js
-├── out
-├── package.json
-├── pages
-├── public
-├── scripts
-├── SECURITY.md
-├── styles
-├── .github
-└── utils
-```
-
-*   1.  \_\_tests\_\_: contains all the unit tests
-*   2.  artifacts: produced by hardhat after compiling the smart contracts and containing smart contracts ABIs.
-*   3.  components: contains all the React components.
-*   4.  contracts: contains all the smart contracts source code.
-*   5.  docker-compose.yml: docker-compose file for serving the production build.
-*   6.  Dockerfile: docker file for building and running next.js app used by docker-compose
-*   7.  docs: contains all the source code documentation.
-*   8.  hardhat.config.js: hardhat config file
-*   9.  jest.config.js: jest config file
-*   10. next.config.js: next.js config file
-*   11. out: produced by `npm run build2` and contains a static site.
-*   12. package.json: npm package manager config file
-*   13. pages: contains all pages routes
-*   14. public: contains all the assets (ex. images, fonts...)
-*   15. scripts: contains all the scripts used to automate the development process (ex. deploy, logger...)
-*   16. SECURITY: defining which version receives updates.
-*   17. styles: contains all page styles.
-*   18. .github: contains automated workflows (CI/CD).
-*   19. utils: contains all javascript functions used by other components.
-
-## :biking\_man: Getting Started
-
-### :yellow\_circle: Prerequisites
-
-#### :package: Package Manager
-
-This project uses `npm` as a package manager
-
-```sh
-pacman -S npm
-```
-
-#### :key: Environment Variables
-
-To run this project, you will need to add the following environment variables to your `.env` file
-
-`PRIVATE_KEY`
-`ROPSTEN_URL`
-
-To generate those keys you will need to:
-
-*   1.  create infura account
-*   2.  create a new Ethereum node
-*   3.  copy the private key to .env
-*   4.  copy ropsten url to .env
-
-`SMART_CONTRACT_ADDRESS_ROPSTEN`
-
-This variable will be set later by the deployment script
-
-### :wrench: Run for Development
-
-*   Clone the repo
-
-```sh
-git clone https://github.com/AbdeltwabMF/devault.git
-cd devault
-```
-
-*   Install dependencies
-
-```sh
-npm ci
-```
-
-*   Run the development server and local blockchain node.
-
-```sh
-npm run deploy localhost
-```
-
-*   Navigate to `http://localhost:3000` <br/>
-
-:green\_circle: *Now you're good to go*
-
-#### :syringe: Run the Tests
-
-*   Run the smart contracts test
-
-```sh
-npx hardhat test
-```
-
-*   Generates a code coverage report for smart contracts test
-
-```sh
-npx hardhat coverage
-```
-
-*   Run the whole project tests
-
-```sh
-npm run test
-```
-
-### :sparkles: Deployment | Hosting
-
-*   Deploy using source code and docker
-
-```sh
-git clone https://github.com/AbdeltwabMF/devault.git
-cd devault
-```
-
-```sh
-docker-compose up --build --force-recreate -d
-```
-
-*   Deploy using official docker image hosted on docker hub
-
-```sh
-docker container run -p 3000:3000 -d abdeltwabmf/devault
-```
-
-*   Deploy using vercel
-
-```sh
-npm i -g vercel
-```
-
-```sh
-vercel --prod
-```
-
-*   Deploy using static site generation
-
-The generated static site will be in the `out` directory (ex. use `nginx` to serve it)
-
-```sh
-npm run build2
-```
-
-## :thinking: Usage
+# :thinking: Usage
 
 *   1.  Create an Ethereum wallet using [metamask](https://metamask.io/) extension.
 *   2.  Open [devault website](https://devault.vercel.app/).
@@ -337,7 +158,7 @@ npm run build2
 *   10. When downloading give the same passphrase you entered when uploading the file.
 *   11. The file is now being downloaded.
 
-## :bulb: FAQ
+# :bulb: FAQ
 
 <details>
     <summary>Why metamask?</summary>
@@ -360,7 +181,7 @@ npm run build2
     </ul>
 </details>
 
-## :rescue\_worker\_helmet: Future Work
+# :rescue\_worker\_helmet: Future Work
 
 *   \[ ] Arabic version.
 *   \[x] Client-side encryption/decryption.
@@ -377,7 +198,7 @@ npm run build2
 *   \[ ] Download selected files.
 
 
-## :hatching\_chick: Contributors
+# :hatching\_chick: Contributors
 
 <table>
   <tr>
@@ -390,6 +211,6 @@ npm run build2
   </tr>
 </table>
 
-## :warning: License
+# :warning: License
 
 Licensed under the [GPL-v3](LICENSE) License.
