@@ -2,22 +2,15 @@
 <img src="md/Header.PNG" />
 </div>
 <h1 align="center">CAPI</h1>
-<h4 align="center">Mobile-Based Comprehensive Career
-Development Tool To Help You Pick
-The Right Place For You, Follow a
-Professional Road Map, Get Support
-From Specialized Communities And
-Track Your Progress Anywhere!</h4>
+<h4 align="center"> Mobile-Based Comprehensive Career Guide and Development Tool </h4>
 
 <div align="center">
-    <a href="https://github.com/AbdeltwabMF/devault/graphs/commit-activity">
+    <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI/graphs/commit-activity">
         <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="maintenance" />
     </a>
-    <a href="https://devault.vercel.app/">
-        <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="website" />
-    </a>
-    <a href="https://github.com/AbdeltwabMF/devault/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/AbdeltwabMF/devault?logo=gnu&.svg" alt="license" />
+ 
+    <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/Mohamed-Shalaan/ProjectCAPI?logo=gnu&.svg" alt="license" />
     <a>
     <a href="https://github.com/AbdeltwabMF/devault/releases">
         <img src="https://img.shields.io/github/release/AbdeltwabMF/devault.svg" alt="release" />
