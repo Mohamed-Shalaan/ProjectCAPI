@@ -20,7 +20,6 @@
     <a href="https://standardjs.com">
         <img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="style" />
     </a>
-
     <a href="https://github.com/AbdeltwabMF/devault">
         <img src="https://img.shields.io/github/languages/top/AbdeltwabMF/devault" alt="languages" />
     </a>
