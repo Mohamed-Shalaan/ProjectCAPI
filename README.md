@@ -52,12 +52,12 @@
 
 ## :scroll: Table of Contents
 
-*   [About the Project](#u6307-about-the-project)
-    +   [Preview](#camera-screenshots)
-    +   [Motives](#bulb-motives)
-    +   [Target Market](#dart-target-market)
-    +   [Competitive Advantages](#trophy-competitive-advantages)
-    +   [Lean Canvas](#triangular_flag_on_post-lean-canvas)
+* ➤ [About the Project](#u6307-about-the-project)
+    *   [Preview](#camera-screenshots)
+    *   [Motives](#bulb-motives)
+    *   [Target Market](#dart-target-market)
+    *   [Competitive Advantages](#trophy-competitive-advantages)
+    *   [Lean Canvas](#triangular_flag_on_post-lean-canvas)
   
 *   [Source Code Directory Structure](#ladder-source-code-directory-structure)
 *   [Getting Started](#biking_man-getting-started)
