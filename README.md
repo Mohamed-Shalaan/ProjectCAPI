@@ -53,7 +53,7 @@
 ## :scroll: Table of Contents
 
 *   [About the Project](#u6307-about-the-project)
-    *   [Preview](#preview-screenshots)
+    *   [Preview](#camera-screenshots)
     *   [Tech stack and Tools](#hammer_and_wrench-tech-stack-and-tools)
     *   [What is Devault](#microphone-what-is-devault)
     *   [Why Devault](#mag-why-devault)
@@ -79,7 +79,7 @@
 
 `CAPI` stands for Career Aptitude Pocket Instructor
 
-### :Preview: Screenshots
+### :camera: Screenshots
 
 <table width="100%">
   <tbody>
