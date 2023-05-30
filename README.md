@@ -95,7 +95,7 @@
 
 ## :microphone: What is Devault
 
-CAPI is a Software Solution to 3 Main Problems That Face Most of Fresh & UnderGraduates :
+<h3 align="center">CAPI is a Software Solution to 3 Main Problems That Face Most of Fresh & UnderGraduates :</h3>
 <img src="md/Problems.PNG" />
  
  Tha App Functions and Features Provide Solutions For All Those Problems : 
