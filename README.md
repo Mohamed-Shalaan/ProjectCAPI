@@ -116,6 +116,7 @@
 
 ***
 ## :anchor: Lean Canvas
+<h3 align="center"> A full view of the project's most vital elements and major steps.</h3>
 <img src="md/Canvas.PNG" />
 
 
