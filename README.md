@@ -52,7 +52,7 @@
 
 ## :scroll: Table of Contents
 
-* ➤ [About the Project](#u6307-about-the-project)
+➤ [About the Project](#u6307-about-the-project)
     *   [Preview](#camera-screenshots)
     *   [Motives](#bulb-motives)
     *   [Target Market](#dart-target-market)
