@@ -54,13 +54,10 @@
 
 *   [About the Project](#u6307-about-the-project)
     *   [Preview](#camera-screenshots)
+    *   [What is CAPI ? ](#microphone-what-is-devault)
+    *   [Why CAPI ? ](#mag-why-devault)
     *   [Tech stack and Tools](#hammer_and_wrench-tech-stack-and-tools)
-    *   [What is Devault](#microphone-what-is-devault)
-    *   [Why Devault](#mag-why-devault)
-        *   [The Problem with Traditional Cloud Storage](#-1-the-problem-with-traditional-cloud-storage)
-        *   [Solution with Devault](#1-the-solution-with-devault)
-        *   [Features](#see_no_evil-features)
-    *   [How Devault Works](#closed_lock_with_key-how-devault-works)
+  
 *   [Source Code Directory Structure](#ladder-source-code-directory-structure)
 *   [Getting Started](#biking_man-getting-started)
     *   [Prerequisites](#yellow_circle-prerequisites)
@@ -98,7 +95,11 @@
 
 ## :microphone: What is Devault
 
-Devault is a decentralized, self-hosted, and end-to-end encrypted alternative to proprietary and centralized cloud storage.
+CAPI is a Software Solution to 3 Main Problems That Face Most of Fresh & UnderGraduates :
+<img src="md/Problems.PNG" />
+ 
+ Tha App Functions and Features Provide Solutions For All Those Problems : 
+ <img src="md/Solution.PNG" />
 
 ### :mag: Why Devault
 
