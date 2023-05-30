@@ -77,7 +77,7 @@
 
 `CAPI` stands for Career Aptitude Pocket Instructor
 
-### :camera: Screenshots
+## :camera: Screenshots
 
 <table width="100%">
   <tbody>
@@ -114,20 +114,7 @@
 <h3 align="center"> CAPI offers a full package of features that sets it apart from all local and international competitors that only offer some of these features for free, or lack the hollistic approach by giving shallow recommendations without a good applicable steps or specilaized communities to support the development journey .</h3>
 <img src="md/plus.PNG" />
 
-#### :-1: The Problem with Traditional Cloud Storage
 
-*   Data loss
-*   Data hack
-*   Data surveillance
-
-#### :+1: The Solution with Devault
-
-*   No third party can access your files or prevent you from accessing them.
-*   It prevents the censorship of the data.
-*   It's nearly impossible to hack AES-256-CBC encryption or even the blockchain.
-*   It prevents the data from being tampered with.
-*   It breaks apart the users’ files and distributes them across multiple nodes on the network.
-*   The smart contract is upgradeable, so the data is never lost when there is a bug fix.
 
 #### :see\_no\_evil: Features
 
