@@ -32,11 +32,11 @@
     <a href="https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Mohamed-Shalaan/ProjectCAPI&amp;utm_campaign=Badge_Grade">
         <img src="https://app.codacy.com/project/badge/Grade/7abde45beb1a44ef858fb68e889a214e" alt="quality" />
     </a>
-    <a href="https://github.com/AbdeltwabMF/devault/graphs/commit-activity">
-        <img src="https://img.shields.io/github/commit-activity/w/abdeltwabmf/devault" alt="commits" />
+    <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI/graphs/commit-activity">
+        <img src="https://img.shields.io/github/commit-activity/w/Mohamed-Shalaan/ProjectCAPI" alt="commits" />
     </a>
-    <a href="https://github.com/AbdeltwabMF/devault">
-        <img src="https://img.shields.io/tokei/lines/github/AbdeltwabMF/devault" alt="lines-of-code" />
+    <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI">
+        <img src="https://img.shields.io/tokei/lines/github/Mohamed-Shalaan/ProjectCAPI" alt="lines-of-code" />
     </a>
     <a href="https://matrix.to/#/#devault-community:matrix.org">
         <img src="https://img.shields.io/matrix/devault-community:matrix.org" alt="chat" />
