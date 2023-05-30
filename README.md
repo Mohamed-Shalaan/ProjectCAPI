@@ -51,24 +51,24 @@
 
 
 ## :scroll: Table of Contents
-*   [About the Project](#u6307-about-the-project)
+*   [➤ About the Project](#u6307-about-the-project)
     *   [Preview](#camera-screenshots)
     *   [Motives](#bulb-motives)
     *   [Target Market](#dart-target-market)
     *   [Competitive Advantages](#trophy-competitive-advantages)
     *   [Lean Canvas](#triangular_flag_on_post-lean-canvas)
 
-*   [App Specifications & Structure](#ladder-source-code-directory-structure)
+*   [➤ App Specifications & Structure](#ladder-source-code-directory-structure)
     *   [Main Modules](#biking_man-getting-started)
     *   [Sub Modules](#yellow_circle-prerequisites)
     *   [System Architecture](#sparkles-deployment--hosting)
     *   [Documentation](#sparkles-deployment--hosting)
 
-*   [Usage](#thinking-usage)
-*   [FAQ](#bulb-faq)
-*   [Future Work](#rescue_worker_helmet-future-work)
-*   [Contributors](#hatching_chick-contributors)
-*   [License](#warning-license)
+*   [➤ Usage](#thinking-usage)
+*   [➤ FAQ](#bulb-faq)
+*   [➤ Future Work](#rescue_worker_helmet-future-work)
+*   [➤ Contributors](#hatching_chick-contributors)
+*   [➤ License](#warning-license)
 
 ## :u6307: About the Project
 
