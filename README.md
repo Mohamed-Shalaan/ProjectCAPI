@@ -94,6 +94,7 @@
   </tbody>
 </table>
 
+***
 ## :bulb: Motives 
 
 <h3 align="center">CAPI is a software solution to 3 main problems in career development</h3>
@@ -101,12 +102,14 @@
 <h3 align="center"> Tha App functions and features provide solutions for all those problems</h3>
 <img src="md/Solution.PNG" />
 
-### :dart: Target Market 
+***
+## :dart: Target Market 
 
 <h3 align="center"> According Statista.com, Capmas.gov.eg, and Wner.wes.com there are over 2.5 million fresh-grads in Egypy, with another 2.3 million full-day clerics who approached a career shift in the last year, all of them can benefit form CAPI's features .</h3>
 <img src="md/Market.PNG" />
 
-#### :eight_spoked_asterisk: Competitive Advantages 
+***
+### :eight_spoked_asterisk: Competitive Advantages 
 
 <h3 align="center"> CAPI offers a full package of features that sets it apart from all local and international competitors that only offer some of these features for free, or lack the hollistic approach by giving shallow recommendations without a good applicable steps or specilaized communities to support the development journey .</h3>
 <img src="md/plus.PNG" />
