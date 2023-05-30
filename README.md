@@ -36,7 +36,7 @@
         <img src="https://img.shields.io/github/commit-activity/w/Mohamed-Shalaan/ProjectCAPI" alt="commits" />
     </a>
     <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI">
-        <img src="https://img.shields.io/tokei/lines/github/Mohamed-Shalaan/ProjectCAPI" alt="lines-of-code" />
+        <img src="https://img.shields.io/badge/totallines-32k-orange" alt="lines-of-code" />
     </a>
     <a href="https://matrix.to/#/#devault-community:matrix.org">
         <img src="https://img.shields.io/matrix/devault-community:matrix.org" alt="chat" />
