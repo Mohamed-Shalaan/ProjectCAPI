@@ -54,7 +54,7 @@
 
 *   [About the Project](#u6307-about-the-project)
     *   [Preview](#camera-screenshots)
-    *   [What is CAPI ? ](#bulb-What-is-CAPI?)
+    *   [What is CAPI ? ](#bulb-what-is-capi?)
     *   [Why CAPI ? ](#why-CAPI-star2)
     *   [Tech stack and Tools](#hammer_and_wrench-tech-stack-and-tools)
   
