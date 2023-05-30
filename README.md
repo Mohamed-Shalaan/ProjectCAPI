@@ -38,30 +38,12 @@
     <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI">
         <img src="https://img.shields.io/badge/totallines-32k-orange" alt="lines-of-code" />
     </a>
-    <a href="https://matrix.to/#/#devault-community:matrix.org">
-        <img src="https://img.shields.io/matrix/devault-community:matrix.org" alt="chat" />
-    </a>
-</div>
-
-<div align="center">
-    <a href="https://youtu.be/gR_tQAkn674">
-        Youtube Video
-    </a>
-    &middot;
-    <a href="https://faucet.egorfine.com/">
-        Ropsten Faucet
-    </a>
-    &middot;
-    <a href="https://devault.vercel.app/">
-        Live Instance
-    </a>
 </div>
 
 <br />
 
-*If you have any improvements, do not hesitate to post an [issue](https://github.com/AbdeltwabMF/devault/issues/new/choose) or make a [pull request](https://github.com/AbdeltwabMF/devault/pulls).*
-
-*Your support is very much appreciated!* [star on GitHub](https://github.com/AbdeltwabMF/devault/stargazers)
+*If you have any improvements, do not hesitate to post an [issue](https://github.com/Mohamed-Shalaan/ProjectCAPI/issues/new/choose) or make a [pull request](https://github.com/Mohamed-Shalaan/ProjectCAPI/pulls).*
+*Your support is very much appreciated!*
 
 <p align="center">
     :warning: Active development. Unstable. Breaking changes. You get the point. :warning:
