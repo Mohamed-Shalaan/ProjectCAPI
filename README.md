@@ -52,7 +52,7 @@
 
 ## :scroll: Table of Contents
 
-*   [About the Project](#tada-about-the-project)
+*   [About the Project](#u6307-about-the-project)
     *   [Preview](#preview-screenshots)
     *   [Tech stack and Tools](#hammer_and_wrench-tech-stack-and-tools)
     *   [What is Devault](#microphone-what-is-devault)
@@ -75,7 +75,7 @@
 *   [Contributors](#hatching_chick-contributors)
 *   [License](#warning-license)
 
-## :Japanese Symbol for Beginner: About the Project
+## :u6307: About the Project
 
 `CAPI` stands for Career Aptitude Pocket Instructor
 
