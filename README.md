@@ -198,7 +198,7 @@
 *   \[ ] Download selected files.
 
 
-# :hatching\_chick: Contributors
+## :hatching\_chick: Contributors
 
 <table>
   <tr>
@@ -211,6 +211,6 @@
   </tr>
 </table>
 
-# :warning: License
+## :warning: License
 
 Licensed under the [GPL-v3](LICENSE) License.
