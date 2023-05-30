@@ -95,11 +95,11 @@
 
 ## :bulb: What is CAPI?  
 
-<h3 align="center">CAPI is a Software Solution to 3 Main Problems That Face Most of Fresh & UnderGraduates :</h3>
+<h3 align="center">CAPI is a software solution to 3 main problems that face most of the fresh & underGraduates</h3>
 <img src="md/Problems.PNG" />
  
- <h3 align="center"> Tha App Functions and Features Provide Solutions For All Those Problems : </h3>
- <img src="md/Solution.PNG" />
+<h3 align="center"> Tha App functions and features provide solutions for all those problems</h3>
+<img src="md/Solution.PNG" />
 
 ### :star: Why CAPI? 
 
