@@ -57,7 +57,7 @@
     +   [Motives](#bulb-motives)
     +   [Target Market](#dart-target-market)
     +   [Competitive Advantages](#trophy-competitive-advantages)
-    +   [Lean Canvas](#anchor-lean-canvas)
+    +   [Lean Canvas](#triangular-flag-on-post-lean-canvas)
   
 *   [Source Code Directory Structure](#ladder-source-code-directory-structure)
 *   [Getting Started](#biking_man-getting-started)
@@ -115,7 +115,7 @@
 <img src="md/plus.PNG" />
 
 ***
-## :anchor: Lean Canvas
+## :triangular_flag_on_post: Lean Canvas
 <h3 align="center"> A full view of the project's most vital elements and major steps.</h3>
 <img src="md/Canvas.PNG" />
 
