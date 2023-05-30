@@ -100,7 +100,7 @@
 
 <h3 align="center">CAPI is a software solution to 3 main problems in career development</h3>
 <img src="md/Problems.PNG" />
-<h3 align="center"> Tha App functions and features provide solutions for all those problems</h3>
+<h3 align="center"> CAPI's functions and features provide solutions for all those problems</h3>
 <img src="md/Solution.PNG" />
 
 ***
