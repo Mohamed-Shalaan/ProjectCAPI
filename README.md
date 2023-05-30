@@ -55,7 +55,7 @@
 *   [About the Project](#u6307-about-the-project)
     *   [Preview](#camera-screenshots)
     *   [Motives](#bulb-motives)
-    *   [Why CAPI ? ](#why-CAPI-star2)
+    *   [Target Market](#dart-target-market)
     *   [Tech stack and Tools](#hammer_and_wrench-tech-stack-and-tools)
   
 *   [Source Code Directory Structure](#ladder-source-code-directory-structure)
@@ -95,13 +95,15 @@
 
 ## :bulb: Motives 
 
-<h3 align="center">CAPI is a software solution to 3 main problems that face most of the fresh & underGraduates</h3>
+<h3 align="center">CAPI is a software solution to 3 main problems in career development</h3>
 <img src="md/Problems.PNG" />
- 
 <h3 align="center"> Tha App functions and features provide solutions for all those problems</h3>
 <img src="md/Solution.PNG" />
 
-### :star: Why CAPI? 
+### :dart: Target Market 
+
+<h3 align="center"> According Statista.com, Capmas.gov.eg, and Wner.wes.com there are over 2.5 million fresh-grads in Egypy, with another 2.3 million full-day clerics who approached a career shift in the last year, all of them can benefit form CAPI's features .</h3>
+<img src="md/Market.PNG" />
 
 #### :-1: The Problem with Traditional Cloud Storage
 
