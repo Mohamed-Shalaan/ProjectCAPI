@@ -54,7 +54,7 @@
 
 *   [About the Project](#u6307-about-the-project)
     *   [Preview](#camera-screenshots)
-    *   [What is CAPI ? ](#what-is-CAPI-bulb)
+    *   [What is CAPI ? ](#What-is-CAPI-:-Motives-bulb)
     *   [Why CAPI ? ](#why-CAPI-star2)
     *   [Tech stack and Tools](#hammer_and_wrench-tech-stack-and-tools)
   
@@ -93,7 +93,7 @@
   </tbody>
 </table>
 
-## What is CAPI ? Motives :bulb:
+## What is CAPI : Motives :bulb:
 
 <h3 align="center">CAPI is a Software Solution to 3 Main Problems That Face Most of Fresh & UnderGraduates :</h3>
 <img src="md/Problems.PNG" />
@@ -101,7 +101,7 @@
  <h3 align="center"> Tha App Functions and Features Provide Solutions For All Those Problems : </h3>
  <img src="md/Solution.PNG" />
 
-### Why CAPI ? Advantages :star2:
+### Why CAPI : Advantages :star:
 
 #### :-1: The Problem with Traditional Cloud Storage
 
