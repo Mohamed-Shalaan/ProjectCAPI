@@ -59,7 +59,7 @@
     *   [Lean Canvas](#triangular_flag_on_post-lean-canvas)
 
 *   [➤ App Specifications & Structure](#ladder-source-code-directory-structure)
-    *   [System Architecture](#sparkles-deployment--hosting)
+    *   [System Architecture](#system-architecture)
     *   [Main Modules](#biking_man-getting-started)
     *   [Sub Modules](#yellow_circle-prerequisites)
     *   [Documentation](#sparkles-deployment--hosting)
