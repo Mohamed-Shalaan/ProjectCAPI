@@ -70,11 +70,11 @@
 *   [➤ Contributors](#hatching_chick-contributors)
 *   [➤ License](#warning-license)
 
-## :u6307: About the Project
+# :u6307: About the Project
 
 `CAPI` stands for Career Aptitude Pocket Instructor
 
-### :camera: Screenshots
+## :camera: Screenshots
 
 <table width="100%">
   <tbody>
@@ -92,7 +92,7 @@
 </table>
 
 ***
-### :bulb: Motives 
+## :bulb: Motives 
 
 <h3 align="center">CAPI is a software solution to 3 main problems in career development</h3>
 <img src="md/Problems.PNG" />
@@ -100,7 +100,7 @@
 <img src="md/Solution.PNG" />
 
 ***
-### :dart: Target Market 
+## :dart: Target Market 
 
 <h3 align="center"> According Statista.com, Capmas.gov.eg, and Wner.wes.com there are over 2.5 million fresh-grads in Egypy, with another 2.3 million full-day clerics who approached a career shift in the last year, all of them can benefit form CAPI's features .</h3>
 <img src="md/Market.PNG" />
@@ -112,12 +112,12 @@
 <img src="md/plus.PNG" />
 
 ***
-### :triangular_flag_on_post: Lean Canvas
+## :triangular_flag_on_post: Lean Canvas
 <h3 align="center"> A full view of the project's most vital elements and major steps.</h3>
 <img src="md/Canvas.PNG" />
 
-
-### :closed\_lock\_with\_key: How Devault Works
+***
+# App Specifications & Structure
 
 **When you upload a file:**
 
