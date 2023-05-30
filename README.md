@@ -57,7 +57,7 @@
     *   [Motives](#bulb-motives)
     *   [Target Market](#dart-target-market)
     *   [Competitive Advantages](#trophy-competitive-advantages)
-    *   [Tech stack and Tools](#hammer_and_wrench-tech-stack-and-tools)
+    *   [Lean Canvas](#anchor-lean-canvas)
   
 *   [Source Code Directory Structure](#ladder-source-code-directory-structure)
 *   [Getting Started](#biking_man-getting-started)
@@ -114,15 +114,10 @@
 <h3 align="center"> CAPI offers a full package of features that sets it apart from all local and international competitors that only offer some of these features for free, or lack the hollistic approach by giving shallow recommendations without a good applicable steps or specilaized communities to support the development journey .</h3>
 <img src="md/plus.PNG" />
 
+***
+## :anchor: Lean Canvas
+<img src="md/Canvas.PNG" />
 
-
-#### :see\_no\_evil: Features
-
-*   Decentralized
-*   Blockchain based
-*   End-to-end encryption/decryption
-*   Self-hosted
-*   Open-source
 
 ### :closed\_lock\_with\_key: How Devault Works
 
