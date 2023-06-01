@@ -11,6 +11,9 @@
     <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI/releases">
         <img src="https://img.shields.io/badge/release-prototype-blue" alt="release" />
     </a>
+     <a href="https://github.com/AbdeltwabMF/devault/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/AbdeltwabMF/devault?logo=gnu&.svg" alt="license" />
+    <a>
     <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI/graphs/contributors">
         <img src="https://img.shields.io/badge/contributors-3-orange" alt="contributors" />
     </a>
