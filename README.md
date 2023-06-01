@@ -57,7 +57,6 @@
     *   [Target Market](#dart-target-market)
     *   [Competitive Advantages](#trophy-competitive-advantages)
     *   [Lean Canvas](#triangular_flag_on_post-lean-canvas)
-
 *   [➤ App Specifications & Structure](#hammer_and_wrench-app-specifications-and-structure)
     *   [System Architecture](#jigsaw-system-architecture)
     *   [Main Modules](#large_blue_diamond-main-modules)
@@ -70,8 +69,6 @@
         *   [Bottom Navigation Bar](#small_orange_diamond-bottom-navigation-bar)
         *   [Control Menu](#small_orange_diamond-control-menu)
     *   [Documentation](#bookmark_tabs-documentation)
-
-*   [➤ Usage](#thinking-usage)
 *   [➤ FAQ](#bulb-faq)
 *   [➤ Future Work](#rescue_worker_helmet-future-work)
 *   [➤ Contributors](#hatching_chick-contributors)
@@ -191,76 +188,107 @@ Furthermore, this part contains links to third-party web Apps and services to pr
 ## :large_orange_diamond: Sub Modules
 
 ### :small_orange_diamond: OnBoarding Screens
+
+<p> A number of introductory screens with symbolic illustrations and descriptive phrases to give the user a hint of the application’s
+features and what to expect for his first-time experience… On Boarding screens appear at first time use only and can be
+skipped; Only the logo screen appears each run after subscribing.
+</p>
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="1%"><img src="md/2d.png"/></td>
+      <td width="1%"><img src="md/3d.png"/></td>
+    </tr>
+  </tbody>
+</table>
+
 ### :small_orange_diamond: Login and SignUp
+
+<p>Used to claim and save user’s credential data at first, and then used to link his quiz result and personal preferences into the database
+To form the user’s profile… Another function of this module is to reset the password in case the user forgot his/her own password
+</p>
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="1%"><img src="md/4d.png"/></td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### :small_orange_diamond: Bottom Navigation Bar
+<p>A very flexible module that includes many functions, located at the bottom of the main page, the navigation bar is mainly for going
+back and forth between the main page and the roadmap page …. In addition to the road map button, the navigation bar also should 
+also include the social pages buttons and the control menu button.
+</p>
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="1%"><img src="md/8dd.png"/></td>
+    </tr>
+  </tbody>
+</table>
+
 ### :small_orange_diamond: Control Menu
+
+<p>The main two functions of this module are to allow the user to access the app settings and to logout if he desires so …
+Another set of functions can be also included, quickly changing the app theme (dark & light), sharing the app with others on social
+websites, and the famous About-Us page to give a quick background about the Devs and their different products and contact data.
+</p>
+  <tbody>
+    <tr>
+      <td width="1%"><img src="md/18d.png"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ***
 ## :bookmark_tabs: Documentation
+<h3> You can read the <a href="md/CAPI-Rep0024.pdf">Full Documentation</a> Full Documentation for further details about the app analysis and infrastructures like User stories & user cases, Functional Requirements, Design Approach, Activity Diagram, Sequence Diagram, ERD Diagram, Implementation, and Testing ... etc </h3>
 
 
-# :thinking: Usage
-
-*   1.  Create an Ethereum wallet using [metamask](https://metamask.io/) extension.
-*   2.  Open [devault website](https://devault.vercel.app/).
-*   3.  Click connect wallet and follow the steps.
-*   4.  <details>
-        <summary>Make sure you're on the ropsten network. (settings > advanced > show test networks)</summary>
-        <ul>
-         <li><img src="/public/screenshots/metamask-ropsten.png" /></li>
-        </ul>
-     </details>
-*   5.  <details>
-        <summary>Go to <a href="https://faucet.egorfine.com/">ropsten faucet</a> and paste your address to get some ethers. (used for transactions)</summary>
-        <ul>
-         <li><img src="/public/screenshots/faucet.png" /></li>
-        </ul>
-     </details>
-*   6.  Navigate to [The Vault](https://devault.vercel.app/vault) tab.
-*   7.  Pick a file and press upload.
-*   8.  Give a passphrase to encrypt the file. (you can use different passphrases for different files).
-*   9.  Once the file is successfully uploaded it will appear on the same page with the option to download.
-*   10. When downloading give the same passphrase you entered when uploading the file.
-*   11. The file is now being downloaded.
-
+***
 # :bulb: FAQ
 
 <details>
-    <summary>Why metamask?</summary>
+    <summary>Who Can Use The App </summary>
     <ul>
-        <li>It's the most popular wallet out there, and it's the only wallet supported by the current version of devault.</li>
+        <li>CAPI is designed to serve anyone still searching for a befitting career, and it will be available in both Arabic and English in full release, thus allowing a wider range of users.</li>
     </ul>
 </details>
 
 <details>
-    <summary>Is it possible to upload files without ethers?</summary>
+    <summary>Why The MBTI Test ?</summary>
     <ul>
-        <li>No, you should have some ethers to be able to write files' metadata to the blockchain.</li>
+        <li> MBTI personality test is based on Myers and Briggs' theory of sixteen personality types and is specifically designed
+         to help you discover the right career for your type. Taking this career test is more accurate than simply looking at a list
+         of jobs for your personality type because it measures your interests as well as your type, giving you a personalized list 
+         of careers that suit your unique profile..
+       </li>
     </ul>
 </details>
 
 <details>
-    <summary>What happens when I switch to another account</summary>
+    <summary>What if the test results was wrong ?</summary>
     <ul>
-        <li>The files that is related to that account will be retrieved instead of the previous one.</li>
+        <li>You can always retake the test anytime, plus once you enter one of the communities provided by the app,
+        you will know whether this is where you should be or not
+        </li>
     </ul>
 </details>
 
+***
 # :rescue\_worker\_helmet: Future Work
 
-*   \[ ] Arabic version.
-*   \[x] Client-side encryption/decryption.
-*   \[x] Upload a file.
-*   \[x] Delete a file.
-*   \[x] Download a file.
-*   \[x] Secure file sharing.
-*   \[ ] Delete selected files.
-*   \[ ] Search files.
-*   \[ ] Change passphrase.
-*   \[ ] Compress files before uploading.
-*   \[ ] Sort files based on (date, size, name...)
-*   \[ ] Upload folders.
-*   \[ ] Download selected files.
+*   \[ ] Adding the Arabic Language.
+*   \[ ] Implementing Account Recovery.
+*   \[ ] Adding Account Data Sync.
+*   \[x] Enhancing the Assessment Quiz
+*   \[x] Upgrading the Careers DB
+*   \[ ] Adding a Progress Monitor Feature
+*   \[x] Adding User Chat
+*   \[ ] Implementing VIP System
+
 
 
 ## :hatching\_chick: Contributors
