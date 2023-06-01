@@ -59,10 +59,10 @@
     *   [Lean Canvas](#triangular_flag_on_post-lean-canvas)
 
 *   [➤ App Specifications & Structure](#hammer_and_wrench-app-specifications-and-structure)
-    *   [System Architecture](#system-architecture)
-    *   [Main Modules](#biking_man-getting-started)
-    *   [Sub Modules](#yellow_circle-prerequisites)
-    *   [Documentation](#sparkles-deployment--hosting)
+    *   [System Architecture](#jigsaw-system-architecture)
+    *   [Main Modules](#large_blue_diamond-main-modules)
+    *   [Sub Modules](#small_blue_diamond-sub-madules)
+    *   [Documentation](#bookmark_tabs-documentation)
 
 *   [➤ Usage](#thinking-usage)
 *   [➤ FAQ](#bulb-faq)
@@ -122,16 +122,16 @@
 # :hammer_and_wrench: App Specifications and Structure
 
 ***
-## System Architecture
+## :jigsaw: System Architecture
 
 ***
-## Main Modules
+## :large_blue_diamond: Main Modules
 
 ***
-## Sub Modules
+## :small_blue_diamond: Sub Modules
 
 ***
-## Documentation
+## :bookmark_tabs: Documentation
 
 
 # :thinking: Usage
