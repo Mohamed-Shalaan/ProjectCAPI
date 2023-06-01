@@ -304,6 +304,12 @@ websites, and the famous About-Us page to give a quick background about the Devs
             <sub><b>Mohamed Salah Shalaan</b></sub>
         </a>
     </td>
+       <td align="center">
+        <a href="https://github.com/AsmaaElbanna">
+        <img src="https://avatars.githubusercontent.com/AsmaaElbanna" width="100px;" alt="AsmaaElbanna"/><br />
+            <sub><b>AsmaaElbanna</b></sub>
+        </a>
+    </td>
   </tr>
 </table>
 
