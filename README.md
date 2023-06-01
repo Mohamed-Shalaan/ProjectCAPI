@@ -11,8 +11,8 @@
     <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI/releases">
         <img src="https://img.shields.io/badge/release-prototype-blue" alt="release" />
     </a>
-     <a href="https://github.com/AbdeltwabMF/devault/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/AbdeltwabMF/devault?logo=gnu&.svg" alt="license" />
+     <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/Mohamed-Shalaan/ProjectCAPI?logo=gnu&.svg" alt="license" />
     <a>
     <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI/graphs/contributors">
         <img src="https://img.shields.io/badge/contributors-3-orange" alt="contributors" />
@@ -30,7 +30,7 @@
         <img src="https://img.shields.io/badge/Code-Dart-blue" alt="language" />
     </a>
      <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI">
-        <img src="https://img.shields.io/badge/Data-Firebase-orange" alt="Data" />
+        <img src="https://img.shields.io/badge/DB-Firebase-orange" alt="Data" />
     </a>
     <a href="https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Mohamed-Shalaan/ProjectCAPI&amp;utm_campaign=Badge_Grade">
         <img src="https://app.codacy.com/project/badge/Grade/7abde45beb1a44ef858fb68e889a214e" alt="quality" />
