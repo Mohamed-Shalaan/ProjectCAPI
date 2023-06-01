@@ -58,7 +58,7 @@
     *   [Competitive Advantages](#trophy-competitive-advantages)
     *   [Lean Canvas](#triangular_flag_on_post-lean-canvas)
 
-*   [➤ App Specifications & Structure](#hammer_and_wrench-app-specifications_&_structure)
+*   [➤ App Specifications & Structure](#hammer_and_wrench-app-specifications-and-structure)
     *   [System Architecture](#system-architecture)
     *   [Main Modules](#biking_man-getting-started)
     *   [Sub Modules](#yellow_circle-prerequisites)
@@ -119,7 +119,7 @@
 <img src="md/Canvas.PNG" />
 
 ***
-# :hammer_and_wrench: App Specifications & Structure
+# :hammer_and_wrench: App Specifications and Structure
 
 ***
 ## System Architecture
