@@ -254,14 +254,14 @@ websites, and the famous About-Us page to give a quick background about the Devs
 # :bulb: FAQ
 
 <details>
-    <summary>Who Can Use The App </summary>
+    <summary>Who can use the CAPI ? </summary>
     <ul>
         <li>CAPI is designed to serve anyone still searching for a befitting career, and it will be available in both Arabic and English in full release, thus allowing a wider range of users.</li>
     </ul>
 </details>
 
 <details>
-    <summary>Why The MBTI Test ?</summary>
+    <summary>Why the MBTI test ?</summary>
     <ul>
         <li> MBTI personality test is based on Myers and Briggs' theory of sixteen personality types and is specifically designed
          to help you discover the right career for your type. Taking this career test is more accurate than simply looking at a list
@@ -272,7 +272,7 @@ websites, and the famous About-Us page to give a quick background about the Devs
 </details>
 
 <details>
-    <summary>What if the test results was wrong ?</summary>
+    <summary>What if the test results were wrong ?</summary>
     <ul>
         <li>You can always retake the test anytime, plus once you enter one of the communities provided by the app,
         you will know whether this is where you should be or not
