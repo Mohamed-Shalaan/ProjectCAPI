@@ -61,7 +61,14 @@
 *   [➤ App Specifications & Structure](#hammer_and_wrench-app-specifications-and-structure)
     *   [System Architecture](#jigsaw-system-architecture)
     *   [Main Modules](#large_blue_diamond-main-modules)
-    *   [Sub Modules](#small_blue_diamond-sub-madules)
+        *   [Assignment Module](#small_blue_diamond-assignment-module)
+        *   [Profile Module](#small_blue_diamond-profile-module)
+        *   [Roadmap Module](#small_blue_diamond-roadmap-module)
+    *   [Sub Modules](#large_orange_diamond-sub-modules)
+        *   [OnBoarding Screens](#small_orange_diamond-onboarding-screens)
+        *   [Login and SignUp](#small_orange_diamond-login-and-signup)
+        *   [Bottom Navigation Bar](#small_orange_diamond-bottom-navigation-bar)
+        *   [Control Menu](#small_orange_diamond-control-menu)
     *   [Documentation](#bookmark_tabs-documentation)
 
 *   [➤ Usage](#thinking-usage)
@@ -135,8 +142,20 @@
 ***
 ## :large_blue_diamond: Main Modules
 
+### :small_blue_diamond: Assignment Module
+
+### :small_blue_diamond: Profile Module
+
+### :small_blue_diamond: Roadmap Module
+
+
 ***
-## :small_blue_diamond: Sub Modules
+## :large_orange_diamond: Sub Modules
+
+### :small_orange_diamond: OnBoarding Screens
+### :small_orange_diamond: Login and SignUp
+### :small_orange_diamond: Bottom Navigation Bar
+### :small_orange_diamond: Control Menu
 
 ***
 ## :bookmark_tabs: Documentation
