@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="maintenance" />
     </a>
     <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI/releases">
-        <img src="https://img.shields.io/badge/release-0.7.1-blue" alt="release" />
+        <img src="https://img.shields.io/badge/release-prototype-blue" alt="release" />
     </a>
     <a href="https://github.com/Mohamed-Shalaan/ProjectCAPI/graphs/contributors">
         <img src="https://img.shields.io/badge/contributors-3-orange" alt="contributors" />
@@ -141,8 +141,22 @@
 
 ***
 ## :large_blue_diamond: Main Modules
+<p>In order to achieve the required system features and maintain simplicity we divided the
+system into 3 main modules:<br> <strong>Assignment module</strong> ,<strong> Profile Module </strong> and <strong>Road-Map Module</strong> …</p>
 
 ### :small_blue_diamond: Assignment Module
+<p>The first main module that serves as a regulator or filter that takes the user through a set of questions<br>
+based on the MBTI system and professional workplace traits studies and surveys to determine the user's strengths & weaknesses<br> 
+that may affect His interactions with other co-workers and managers or even Their practical rolewithin an organization,<br>
+Revealing the final result as a personality type code that is later Used to suggest the best matching careers form our data base</p>
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="1%"><img src="md/5.png"/></td>
+      <td width="1%"><img src="md/6d.png"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ### :small_blue_diamond: Profile Module
 
