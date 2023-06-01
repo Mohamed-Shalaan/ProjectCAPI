@@ -125,9 +125,9 @@
 ## :jigsaw: System Architecture
 
 <p>Following a layered architecture pattern, the system is composed of 3 layers: <br>
-**Presentation Layer:** Contains the user interfaces.<br>
-**Services Layer:** Contains the system’s inner processes & services.<br>
-**Data Layer:** Contains the different databases located in the local disk.<br>
+<strong>Presentation Layer:</strong> Contains the user interfaces.<br>
+<strong>Services Layer:</strong>  Contains the system’s inner processes & services.<br>
+<strong>Data Layer:</strong>  Contains the different databases located in the local disk.<br>
 </p>
 <img src="md/arch.PNG" />
 
