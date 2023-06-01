@@ -117,7 +117,7 @@
 ***
 ## :trophy: Competitive Advantages
 
-<h3 align="center"> CAPI offers a full package of features that sets it apart from all local and international competitors who only offers partial features for a price !.</h3>
+<h3 align="center"> CAPI offers a full package of features that sets it apart from all local and international competitors who only offer partial features for a price!</h3>
 <img src="md/plus.PNG" />
 
 ***
@@ -145,10 +145,11 @@
 system into 3 main modules:<br> <strong>Assignment module</strong> ,<strong> Profile Module </strong> and <strong>Road-Map Module</strong> …</p>
 
 ### :small_blue_diamond: Assignment Module
-<p>The first main module that serves as a regulator or filter that takes the user through a set of questions<br>
-based on the MBTI system and professional workplace traits studies and surveys to determine the user's strengths & weaknesses<br> 
-that may affect His interactions with other co-workers and managers or even Their practical rolewithin an organization,<br>
-Revealing the final result as a personality type code that is later Used to suggest the best matching careers form our data base</p>
+<p>The first main module serves as a regulator or filter that takes the user through a set of questions<br>
+based on the MBTI system and professional workplace traits studies and surveys to determine the user's strengths & weaknesses
+that may affect His interactions with other co-workers and managers or even Their practical role within an organization,
+Revealing the final result as a personality type code that is later Used to suggest the best matching careers from our data base
+</p>
 <table width="100%">
   <tbody>
     <tr>
@@ -159,9 +160,32 @@ Revealing the final result as a personality type code that is later Used to sugg
 </table>
 
 ### :small_blue_diamond: Profile Module
+<p>This module is dedicated to the user’s personal information and preferences, it will serve as the
+The landing page when he/she logs in after completing the First assignment quiz. It will contain the user’s name,
+profile picture, and career …. It will also contain some field-specific skill-set recommendations based on professionals reviews; Furthermore,
+it may contain some news feed related To his/her career of choice providing training, Internships, and job chances
+</p>
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="1%"><img src="md/7d.png"/></td>
+      <td width="1%"><img src="md/8d.png"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ### :small_blue_diamond: Roadmap Module
-
+<p> This module is dedicated to enlightening the user on the best steps to take to reach mastery and in which order… 
+the road map is constructed based on community pros Recommendations and personal experiences, to give the user a detailed step-by-step guide in his/her career. 
+Furthermore, this part contains links to third-party web Apps and services to provide not just theoretical but also Practical guidance and hints on each branch of the roadmap
+</p>
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="1%"><img src="md/9d.png"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ***
 ## :large_orange_diamond: Sub Modules
